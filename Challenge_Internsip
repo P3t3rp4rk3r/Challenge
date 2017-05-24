@@ -1,0 +1,10 @@
+from facebook import contacts , connections
+try:
+    print "[+] Crack_it ..!!!"
+except:
+    print "[+] Wait for writeup ..!!!!"
+Break_it_Challenge : " c2dnazovL2dybWJmaW8ueGxuL2E4aHlqM2cK "- Hint:base64
+Total : 7 Levels   
+Level 1- 3,5 (Crypto) 
+Level : 4, 6 Level - (Forensics)
+Final Level : Brute-Force the ATM PIN: 9***
